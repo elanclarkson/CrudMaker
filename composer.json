@@ -9,9 +9,9 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.2",
         "doctrine/dbal": "^2.5",
-        "illuminate/support": "^5.5",
+        "illuminate/support": "^6.0",
         "grafite/formmaker": "^1.1"
     },
     "require-dev": {
